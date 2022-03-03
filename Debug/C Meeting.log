@@ -1,0 +1,3 @@
+﻿  포인터(허용되지 않는 포인터 대입).c
+C:\Users\나준희\Desktop\C Meeting\C Meeting\포인터(허용되지 않는 포인터 대입).c(8,8): warning C4133: '=': 'int *'과(와) 'double *' 사이의 형식이 호환되지 않습니다.
+  C Meeting.vcxproj -> C:\Users\나준희\Desktop\C Meeting\Debug\C Meeting.exe

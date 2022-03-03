@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="do while(구구단).c">
+      <Filter>source\do while</Filter>
+    </ClCompile>
+    <ClCompile Include="do~while(별찍기~직각삼각형).c">
+      <Filter>source\do while</Filter>
+    </ClCompile>
+    <ClCompile Include="for(별~피라미드).c">
+      <Filter>source\for</Filter>
+    </ClCompile>
+    <ClCompile Include="for(별~직각삼각형).c">
+      <Filter>source\for</Filter>
+    </ClCompile>
+    <ClCompile Include="for%28별~사각형%29.cpp">
+      <Filter>source\for</Filter>
+    </ClCompile>
+    <ClCompile Include="for(구구단).c">
+      <Filter>source\for</Filter>
+    </ClCompile>
+    <ClCompile Include="while(구구단).c">
+      <Filter>source\while</Filter>
+    </ClCompile>
+    <ClCompile Include="while%28별~직각삼각형 반대로%29.c">
+      <Filter>source\while</Filter>
+    </ClCompile>
+    <ClCompile Include="while%28별~직각삼각형%29.c">
+      <Filter>source\while</Filter>
+    </ClCompile>
+    <ClCompile Include="while(별~피라미드).c">
+      <Filter>source\while</Filter>
+    </ClCompile>
+    <ClCompile Include="배열(char 배열).c">
+      <Filter>source\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열(gets,puts 함수).c">
+      <Filter>source\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열%28sizeof성적처리 프로그램%29.c">
+      <Filter>source\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열(strcpy 함수).c">
+      <Filter>source\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열(성적처리프로그램).c">
+      <Filter>source\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(const).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(swap).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(간접 참조 연산자).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(정수의 합과 평균연습).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(정수의 합과 평균).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(주소연산자).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(주소와 포인터).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터(허용되지 않는 포인터 대입).c">
+      <Filter>source\포인터 %2a</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(배열명을 주소로 활용).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(배열명처럼 사용되는 포인터).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(포인터를 이용한 배열의 값 출력).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(뺄셈과 관계연산).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(배열을 처리하는 함수).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(크기가 다른 배열을 출력하는 함수).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="배열과 포인터(배열에 값을 입력하는 변수).c">
+      <Filter>source\배열과 포인터</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{da9ffa02-331e-49e2-a987-548962759017}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\do while">
+      <UniqueIdentifier>{00365a3b-16c0-4b65-99bd-381395344713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\for">
+      <UniqueIdentifier>{da3b99a4-73c6-42ba-bc6b-6e24dad80cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\while">
+      <UniqueIdentifier>{010c7c18-df1f-4523-909f-257fb285368c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\배열">
+      <UniqueIdentifier>{154509dd-4e55-48c6-871f-cef56976f074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\포인터 %2a">
+      <UniqueIdentifier>{3b84c769-3baf-43a6-903d-da0bfe7db48a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\배열과 포인터">
+      <UniqueIdentifier>{a43d94a5-086b-482d-81ee-cc9fcb55c14d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

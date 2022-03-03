@@ -1,0 +1,5 @@
+﻿  포인터(간접 참조 연산자).c
+  포인터(정수의 합과 평균).c
+C:\Users\p2p23\source\repos\C Meeting\C Meeting\포인터(정수의 합과 평균).c(19,9): warning C4477: 'printf' : 서식 문자열 '%.1lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  코드를 생성하고 있습니다...
+  C Meeting.vcxproj -> C:\Users\p2p23\source\repos\C Meeting\x64\Debug\C Meeting.exe
